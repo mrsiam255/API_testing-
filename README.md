@@ -19,7 +19,7 @@ This project demonstrates REST API testing using Postman. It includes CRUD opera
 - JSONPlaceholder
 
 ## API Used
-https://jsonplaceholder.typicode.com/
+[https://jsonplaceholder.typicode.com/](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ## Test Scenarios
 - Retrieve a single post
