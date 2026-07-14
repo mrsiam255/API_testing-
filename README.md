@@ -7,11 +7,8 @@ This project demonstrates REST API testing using Postman. It includes CRUD opera
 - GET Request Testing
 - POST Request Testing
 - PUT Request Testing
-- PATCH Request Testing
 - DELETE Request Testing
-- Status Code Validation
-- Response Body Validation
-- Request & Response Analysis
+
 
 ## Tools Used
 - Postman
@@ -34,8 +31,8 @@ This project demonstrates REST API testing using Postman. It includes CRUD opera
 ## Repository Structure
 ```
 API-Testing/
-├── Postman Collection.json
-├── Screenshots/
+├── Postman API testing.pdf
+├── Screenshots/api testing
 └── README.md
 ```
 
